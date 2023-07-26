@@ -1,7 +1,6 @@
-# TechVerse API
-The official TechVerse API
+# TechVerse Media API
+The official TechVerse Media API
 
 ## Services
-I) media 
-  1) event images
-  2) certificate tempelates (SVG format only)
+1) event images
+2) certificate tempelates (SVG format only)
